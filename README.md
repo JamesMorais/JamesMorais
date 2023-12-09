@@ -1,6 +1,7 @@
 
 
-### Hi there, I’m James 👋
+### Hi there, I’m ***James Morais*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;
+
 - Studying and delving into topics related to Quality Assurance/Quality Control
 - Analysis and Development of Systems at IFPI.
 ##
