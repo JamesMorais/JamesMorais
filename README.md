@@ -26,6 +26,14 @@
 
 </span>
 
+##
+
+## Connect with me 🤝 
+<a href="https://www.linkedin.com/in/james-morais-63a596244/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+
 
 
 
