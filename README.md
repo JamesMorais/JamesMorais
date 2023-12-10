@@ -20,6 +20,7 @@
 </span>
 
 <h4>Automated Testing with:</h4>
+
 <span>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black">
