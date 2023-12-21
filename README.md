@@ -7,7 +7,7 @@
 ##
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=4&theme=dark&bg_color=0A0A0A)](https://github.com/JamesMorais/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=7&theme=dark&bg_color=0A0A0A)](https://github.com/JamesMorais/github-readme-stats)
 ### Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4>Conhecimento em:</h4>
