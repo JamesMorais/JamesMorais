@@ -1,6 +1,6 @@
 
 
-## Olá, eu sou ***James Morais*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;
+## Olá, eu sou ***James Morais*** 
 
 - Estudando e aprofundando-se em tópicos relacionados à Quality Assurance/Quality Control
 - Análise e Desenvolvimento de Sistemas no IFPI (Instituto Federal de Educação, Ciência e Tecnologia do Piauí).
