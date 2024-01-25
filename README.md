@@ -23,7 +23,7 @@ public class MinhaApresentacao {
     <a href="https://github.com/JamesMorais/github-readme-stats">
       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=6&theme=dark&bg_color=0A0A0A" alt="Top Langs">
     </a>
-    <img width="40%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?..." alt="Your Image">
+    <img width="39%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your Image">
   </p>
 </div>
 
