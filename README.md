@@ -4,7 +4,7 @@
 
 - Estudando e aprofundando-se em tópicos relacionados à Quality Assurance/Quality Control
 - Análise e Desenvolvimento de Sistemas no IFPI (Instituto Federal de Educação, Ciência e Tecnologia do Piauí).
-- Conecte-se Comigo: <br><br>
+- Conecte-se Comigo: <br>
 
 
   <a href="https://www.linkedin.com/in/james-morais-63a596244/">
