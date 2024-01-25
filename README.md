@@ -1,15 +1,19 @@
 
-
 ## Olá, eu sou ***James Morais*** 
 
 
 - Estudando e aprofundando-se em tópicos relacionados à Quality Assurance/Quality Control
 - Análise e Desenvolvimento de Sistemas no IFPI (Instituto Federal de Educação, Ciência e Tecnologia do Piauí).
 - Conecte-se Comigo: <br><br>
-  [<img src="https://skillicons.dev/icons?i=gmail"  width="5%">](mailto:james.rmorais@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" width="5%">](https://www.linkedin.com/in/james-morais-63a596244/)
+
+
+  <a href="https://www.linkedin.com/in/james-morais-63a596244/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
 
 ##
-<a>
+
 <img align="right" width="30%" src="https://images.fineartamerica.com/images/artworkimages/medium/3/bjork-playing-minecraft-augusta-venu-transparent.png" alt="Your Image">
 
 ```java
@@ -35,7 +39,7 @@ public class MinhaApresentacao {
 
 ##  Tecnologias mais utilizidas 
   <p align="center" style="background-color: white;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,html,css,js,py,c,mysql,postgres,git" />
-  </a>
-</p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,selenium,html,css,js,py,c,mysql,postgres,git" />
+    </a>
+  </p>
