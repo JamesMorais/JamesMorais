@@ -17,7 +17,7 @@ public class MinhaApresentacao {
 
         System.out.println("Meu nome é " + nome + ", estou cursando " + curso +
                            ". Minha área de estudo é " + areaEstudo + ".");
-        System.out.println("Este é meu perfil!");
+        System.out.println("Esse é meu perfil!");
     }
 }
 ```
@@ -29,7 +29,7 @@ public class MinhaApresentacao {
 
 
 
-##  Tecnologias
+##  Tecnologias mais utilizidas 
   <p align="center" style="background-color: white;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,selenium,html,css,js,py,c,mysql,postgres,git" />
