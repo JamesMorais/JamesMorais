@@ -18,18 +18,15 @@ public class MinhaApresentacao {
     }
 }
 ```
-<div align="center" >
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-      <div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=6&theme=dark&bg_color=0A0A0A)](https://github.com/JamesMorais/github-readme-stats)
-  
+<div align="center">
+  <p align="center" >
+    <a href="https://github.com/JamesMorais/github-readme-stats">
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=6&theme=dark&bg_color=0A0A0A" alt="Top Langs">
+    </a>
+    <img width="40%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?..." alt="Your Image">
+  </p>
 </div>
-  <div>
-    <img width="40%" height="70%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?...">
-  </div>
-</div>
-</div>
+
 
 
 ##  Tecnologias
