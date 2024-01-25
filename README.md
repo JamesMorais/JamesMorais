@@ -2,9 +2,12 @@
 
 ## Olá, eu sou ***James Morais*** 
 
+
 - Estudando e aprofundando-se em tópicos relacionados à Quality Assurance/Quality Control
 - Análise e Desenvolvimento de Sistemas no IFPI (Instituto Federal de Educação, Ciência e Tecnologia do Piauí).
 ##
+<img align="right" width="30%" src="https://images.fineartamerica.com/images/artworkimages/medium/3/bjork-playing-minecraft-augusta-venu-transparent.png" alt="Your Image">
+
 ```java
 public class MinhaApresentacao {
     public static void main(String[] args) {
@@ -20,12 +23,8 @@ public class MinhaApresentacao {
 ```
 ##
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/JamesMorais/github-readme-stats">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=6&theme=dark&bg_color=0A0A0A" alt="Top Langs">
-    </a>
-    <img width="30%" src="https://images.fineartamerica.com/images/artworkimages/medium/3/bjork-playing-minecraft-augusta-venu-transparent.png" alt="Your Image">
-  </p>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMorais&layout=compact&langs_count=6&theme=dark&bg_color=0A0A0A)](https://github.com/JamesMorais/github-readme-stats)
 </div>
 
 
