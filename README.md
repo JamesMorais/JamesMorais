@@ -40,6 +40,6 @@ public class MinhaApresentacao {
 ##  Tecnologias mais utilizidas 
   <p align="center" style="background-color: white;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,selenium,html,css,js,py,c,mysql,postgres,git" />
+      <img src="https://skillicons.dev/icons?i=java,selenium,html,css,js,py,c,mysql,postgres,git&theme=light" />
     </a>
   </p>
